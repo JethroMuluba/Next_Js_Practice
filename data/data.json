@@ -1,0 +1,14 @@
+{
+    "backgrounds" : [
+        {
+            "bgHdrHhero" : "https://res.cloudinary.com/dr8ofciki/image/upload/f_auto,q_auto/v1/Mon-Portfolio-Data/hder-hero-bg",
+            "bgHdrHheroTitle" : "Our Header And Hero Background",
+            "bgProfil" : "https://res.cloudinary.com/dr8ofciki/image/upload/f_auto,q_auto/v1/Mon-Portfolio-Data/Jethro-Profil",
+            "bgProfilTitle" : "Profile picture background",
+            "bgDesignHero" : "https://res.cloudinary.com/dr8ofciki/image/upload/f_auto,q_auto/v1/Mon-Portfolio-Data/hero-design",
+            "bgDesignHeroTitle" : "Our Hero Background",
+            "bgDesignAbout" : "https://res.cloudinary.com/dr8ofciki/image/upload/f_auto,q_auto/v1/Mon-Portfolio-Data/design-about",
+            "bgDesignAboutTitle" :  "The About Us Page Background"
+        }
+    ]
+}
